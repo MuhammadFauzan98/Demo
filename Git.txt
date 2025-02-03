@@ -12,3 +12,5 @@ git push origin <new-branch-name> - 'to push to remote repo'
 
 
 Changes were added.
+
+FAUZAN MADE CHANGES.
