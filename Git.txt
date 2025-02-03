@@ -9,3 +9,6 @@ git add .   - ' to add the new changes;
 git commit -m "Message"  - 'to commit changes'
 
 git push origin <new-branch-name> - 'to push to remote repo'
+
+
+Changes were added.
