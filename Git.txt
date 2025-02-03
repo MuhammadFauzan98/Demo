@@ -1,0 +1,11 @@
+git merge origin  -  'to merge new changes from main branch to feature branch'
+
+git checkout -b <name>  - 'to create a new branch'
+
+git checkout <name>    - 'to switch to that branch'
+
+git add .   - ' to add the new changes;
+
+git commit -m "Message"  - 'to commit changes'
+
+git push origin <new-branch-name> - 'to push to remote repo'
